@@ -1,0 +1,25 @@
+/*Tamaño de letra */
+
+.s{font-size: 4em;}
+.m{font-size: 5em;}
+.l{font-size: 6em;}
+.xl{font-size: 7em;}
+
+/*Color de letras */
+
+#aqua{color: aqua;}
+#blue{color:blue;}
+#chartreuse{color:chartreuse;}
+#chocolate{color:chocolate;}
+#fuchsia{color:fuchsia;}
+#yellow{color:yellow;}
+#red{color:red;}
+
+/*Centrar parrafo */
+ 
+p{
+text-align:center;
+}
+
+/* Tabla*/
+th,td{font-size: 1.5em;}
